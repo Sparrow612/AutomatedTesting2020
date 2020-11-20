@@ -19,7 +19,7 @@ def format_process(test, m_name):
 
 root = '../../Models/MNIST'''
 models = sorted(os.listdir(root))
-idx = 4  # 选取几号模型
+idx = 1  # 选取几号模型
 
 m = models[idx]
 o = 'adam'

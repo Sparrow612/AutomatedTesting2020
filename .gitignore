@@ -131,8 +131,8 @@ dmypy.json
 .DS_Store
 
 .idea/
-/Models/
-/Project/deprecated/
+
+
 
 /Data/CIFAR-10/
 /Data/CIFAR-100/
